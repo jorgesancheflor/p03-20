@@ -18,7 +18,7 @@ public class Circulo
 	}
 /**
 * Constructor para el Radio del círculo
-* @param radio El parámetro radio define el radio del círculo
+* param radio El parámetro radio define el radio del círculo
 */
 	
 ///////////////////////////////////////////////////////
@@ -40,7 +40,7 @@ public class Circulo
 	}
 	/**
 	* Método que devuelve el radio 
-	* @return El Radio del ciírculo
+	* return El Radio del ciírculo
 	*/
 ///////////////////////////////////////////////////////
 	public void setRadio(double radio) 
