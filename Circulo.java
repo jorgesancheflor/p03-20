@@ -1,6 +1,11 @@
 package Clases;
 
 import java.util.Scanner;
+/**
+* Esta clase define oel RADIO y la SUPERFICIE de un círculo
+* @author: Jorge Sánchez-Flor Sánchez
+* @version: 20/12/2019
+*/
 
 public class Circulo 
 {	
@@ -11,6 +16,10 @@ public class Circulo
 	{
 		this.radio = radio;
 	}
+/**
+* Constructor para el Radio del círculo
+* @param radio El parámetro radio define el radio del círculo
+*/
 	
 ///////////////////////////////////////////////////////
 	public Circulo()
@@ -29,6 +38,10 @@ public class Circulo
 	{
 		return radio;
 	}
+	/**
+	* Método que devuelve el radio 
+	* @return El Radio del ciírculo
+	*/
 ///////////////////////////////////////////////////////
 	public void setRadio(double radio) 
 	{
